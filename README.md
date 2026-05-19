@@ -161,8 +161,8 @@ custom_kernel_cuda_time_in_profiling_us: 10.399999999999864
 启动KernelGYM沙盒环境部署cuda kernel的profile环境：
 
 需要
-修改：FEEDBACK_GPU_DEVICES 使用的显卡
-修改：REDIS_HOST=部署的机器的ip地址
+- 修改：FEEDBACK_GPU_DEVICES 使用的显卡
+- 修改：REDIS_HOST=部署的机器的ip地址
 ```shell
 cd KernelGYM
 
@@ -189,9 +189,8 @@ EVALUATION RESULT
 ```
 
 ## SFT
-SFT
 
-/nfs/FM/gongoubo/new_project/github/Data_Synthesis_For_Cuda_Kernel/KernelGYM/drkernel/kernel/scripts/sft/8b-coldstart.sh
+`bash KernelGYM/drkernel/kernel/scripts/sft/8b-coldstart.sh`
 
 主要是修改相关数据的路径以及模型路径即可。
 
@@ -199,33 +198,33 @@ SFT
 
 ## RL
 
-/nfs/FM/gongoubo/new_project/github/Data_Synthesis_For_Cuda_Kernel/KernelGYM/drkernel/kernel/scripts/rl/8b_trloo_mrs_pr_prs.sh
+`bash KernelGYM/drkernel/kernel/scripts/rl/8b_trloo_mrs_pr_prs.sh`
 
 主要是修改相关数据的路径以及模型路径即可。
 
 ## 其它
 
-生成数据时应该使用什么模型？
+### 生成数据时应该使用什么模型？
 
 - 使用过GPT5.5、Claude Ops 4.7，但是这些API都不会返回思考的过程了，只有一个最终的结果，不可用。GPT5.5使用的是cliproxyapi将codex转换为api使用，可参考：https://github.com/taishan1994/python_common_code_collection/blob/main/src/codex%E4%BD%BF%E7%94%A8.md。
 - 使用Qwen3-32B，模型能力太差，很难生成正确的cuda kernel代码。
 - 使用GLM5，自行部署的模型速度太慢了，而且思考过程太长，导致5轮情况下，最终70%的SFT数据都超过了80k的长度，基本不可用。
 - 使用minimax-2.5，思考过程比较短，且具备一定的能力，推理速度快，最终5轮数据基本上都在32k以内。
 
-如何构造SFT的数据？
+### 如何构造SFT的数据？
 
 取5轮中加速比最高的那一轮作为最终轮，后面的轮数数据都被丢弃。
 
-SFT后的模型不输出think标签以及终止标签？
+### SFT后的模型不输出think标签以及终止标签？
 
 由于使用的是预训练的模型训练带思考标签的数据，在数据量比较少的时候，如果训练的步数过少，会导致内容虽然学习到了，但是`<think></think>`这些标签还未学习到，这是需要注意的地方。
 
-多轮情况下的RL是怎么做的？
+### 多轮情况下的RL是怎么做的？
 主要是有两个prompt，第一轮的prompt主要是用于引导模型生成cuda kernel，这里参考了cuda_agent的skill，将其进行了改写。后面的多轮的prompt都是一样的了，每次请求的时候会将上一轮模型的输出进行profile之后的结果拼接，再指导模型根据反馈生成对应的cuda kernel。另外，多轮的时候，think是否要拼接也是一个问题，调研了一些信息：
 - deepseek-v4 pro，如果包含工具调用，才会拼接回思维链，否则只会拼接回答。
 - Qwen3.5：No Thinking Content in History: In multi-turn conversations, the historical model output should only include the final output part and does not need to include the thinking content. It is implemented in the provided chat template in Jinja2. However, for frameworks that do not directly use the Jinja2 chat template, it is up to the developers to ensure that the best practice is followed. 在历史中没有思考内容：在多轮对话中，历史模型的输出应该只包括最终输出部分，不需要包括思考内容。它是在提供的 Jinja2 聊天模板中实现的。然而，对于不直接使用 Jinja2 聊天模板的框架，则由开发人员确保遵循最佳实践。
 - Qwen3.6：By default, only the thinking blocks generated in handling the latest user message is retained, resulting in a pattern commonly as interleaved thinking. Qwen3.6 has been additionally trained to preserve and leverage thinking traces from historical messages. You can enable this behavior by setting the preserve_thinking option: 默认情况下，仅保留处理最新用户消息时生成的思维块，导致模式通常为交错思维。Qwen3.6 已额外训练以保留和利用历史消息中的思维轨迹。你可以通过设置 preserve_thinking 选项来启用此行为： This capability is particularly beneficial for agent scenarios, where maintaining full reasoning context can enhance decision consistency and, in many cases, reduce overall token consumption by minimizing redundant reasoning. Additionally, it can improve KV cache utilization, optimizing inference efficiency in both thinking and non-thinking modes. 这种能力对于代理场景特别有用，因为保持完整的推理上下文可以增强决策的一致性，并且在许多情况下，通过减少冗余推理来减少整体的令牌消耗。此外，它还可以提高 KV 缓存的利用率，优化推理过程中思考和非思考模式的效率。
 - Kevin：使用Qwen-QWQ模型：No Thinking Content in History: In multi-turn conversations, the historical model output should only include the final output part and does not need to include the thinking content. This feature is already implemented in apply_chat_template.历史记录中没有思考内容：在多轮对话中，历史模型输出应该只包括最终输出部分，不需要包括思考内容。这个功能已经在 apply_chat_template 中实现。但是kevin在多轮RL的时候是会拼接历史的think的，如果过长的话会进行摘要。
 
-数据不够怎么办？
+### 数据不够怎么办？
 可以合成torch model从而进一步合成cuda kernel数据，可参考：https://github.com/taishan1994/Torch_Operator_Synthesis.git
