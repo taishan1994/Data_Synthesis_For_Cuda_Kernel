@@ -3,6 +3,12 @@
 
 天下苦nkernel数据久已，本项目实现了基于torch model生成cuda kernel的数据流水线。主要是设计了cuda_agent的backend，并集成到dr kernel的KernelGYM的环境中。另外支持dr kernel的SFT以及RL。
 
+安装环境：
+```shell
+cd kernelGYM
+pip install -r requirements.txt
+```
+
 ## CudaAgentBackend
 测试cuda_agent backend：`python test_cuda_agent_backend.py`
 ```shell
@@ -165,6 +171,7 @@ custom_kernel_cuda_time_in_profiling_us: 10.399999999999864
 - 修改：REDIS_HOST=部署的机器的ip地址
 ```shell
 cd KernelGYM
+bash setup.sh
 
 bash start_all_with_monitor.sh
 ```
@@ -228,3 +235,14 @@ EVALUATION RESULT
 
 ### 数据不够怎么办？
 可以合成torch model从而进一步合成cuda kernel数据，可参考：https://github.com/taishan1994/Torch_Operator_Synthesis.git
+
+```
+@misc{ChatSA,
+  author = {Oubo Gong},
+  title = {DSC: Data Synthesis For Cuda Kernel},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  url="https://github.com/taishan1994/Data_Synthesis_For_Cuda_Kernel.git",
+}
+```

@@ -1,0 +1,80 @@
+2026-05-19 08:25:12,708 [INFO] root: Logging configured for worker_worker_gpu_0 - File logging: True
+2026-05-19 08:25:12,708 [INFO] root: Log files will be written to: /nfs/FM/gongoubo/new_project/github/Data_Synthesis_For_Cuda_Kernel/KernelGYM/kernelgym/logs
+2026-05-19 08:25:12,711 [INFO] root: Redis connection established for worker worker_gpu_0
+2026-05-19 08:25:12,712 [INFO] root: Starting single worker worker_gpu_0 on device cuda:0
+2026-05-19 08:25:12,712 [INFO] kernelgym.worker: Starting GPU worker worker_gpu_0 on device cuda:0
+2026-05-19 08:25:12,713 [INFO] kernelgym.worker: Worker worker_gpu_0 wrote initial heartbeat during startup
+[DEBUG]: url: http://192.168.16.4:8001/worker/register
+2026-05-19 08:25:12,714 [WARNING] kernelgym.worker: API not ready for worker register: Cannot connect to host 192.168.16.4:8001 ssl:default [Connect call failed ('192.168.16.4', 8001)]. Retrying...
+2026-05-19 08:25:13,226 [INFO] kernelgym.worker: Successfully registered with API server: {'success': True, 'message': 'Worker worker_gpu_0 registered', 'node_id': 'ai-16-2'}
+2026-05-19 08:25:13,230 [INFO] kernelgym.worker: Verifying GPU 0 availability (no CUDA init in main process)
+2026-05-19 08:25:13,262 [INFO] kernelgym.worker: GPU 0 verified successfully
+2026-05-19 08:25:13,263 [INFO] kernelgym.worker: GPU Name: NVIDIA GeForce RTX 4090
+2026-05-19 08:25:13,264 [INFO] kernelgym.worker: GPU Memory: 24.0GB
+2026-05-19 08:25:13,265 [INFO] kernelgym.worker: Main process will NOT use CUDA (subprocess isolation enabled)
+2026-05-19 08:25:13,266 [INFO] kernelgym.worker: Initializing worker pool for worker_gpu_0 (device=cuda:0, pool_size=1, max_tasks_per_worker=1)
+2026-05-19 08:25:13,272 [INFO] kernelgym.subprocess_pool: [worker_gpu_0_pool_0_0] Starting persistent worker for GPU 0 (pool_size=1, max_tasks=1)
+[worker_gpu_0_pool_0_0] Initialized successfully (device=cuda:0, init_time=0.16s)
+2026-05-19 08:25:15,774 [INFO] kernelgym.subprocess_pool: [worker_gpu_0_pool_0_0] Worker initialized successfully (init_time=0.16s)
+2026-05-19 08:25:15,775 [INFO] kernelgym.subprocess_pool: [GPU 0] Worker pool initialized with 1 workers
+2026-05-19 08:25:15,777 [INFO] kernelgym.worker: Worker pool initialized successfully for worker_gpu_0 with 1 subprocess workers (max 1 tasks per worker)
+2026-05-19 08:25:15,778 [INFO] kernelgym.worker: Worker worker_gpu_0 sent initial heartbeat
+2026-05-19 08:25:15,780 [INFO] kernelgym.worker: Worker worker_gpu_0 processing loop started
+2026-05-19 08:27:02,565 [INFO] kernelgym.worker: Worker worker_gpu_0 processing task test_api_1779179222_kernel
+2026-05-19 08:27:02,566 [INFO] kernelgym.worker: [Worker] Load per_task_timeout from payload: 300
+W0519 08:27:02.593000 44551 torch/utils/cpp_extension.py:2425] TORCH_CUDA_ARCH_LIST is not set, all archs for visible cards are included for compilation. 
+W0519 08:27:02.593000 44551 torch/utils/cpp_extension.py:2425] If this is not desired, please set os.environ['TORCH_CUDA_ARCH_LIST'] to specific architectures.
+[DEBUG] init inputs: [2.0]
+Compiling CUDA sources in /tmp/cuda_agent_fzcdexzu/build/forced_compile with name cuda_agent_fzcdexzu
+2026-05-19 08:27:15,398 [INFO] kernelgym.subprocess_pool: [worker_gpu_0_pool_0_0] Reached max tasks limit (1). Marking for restart to prevent memory accumulation.
+2026-05-19 08:27:15,399 [WARNING] kernelgym.subprocess_pool: [worker_gpu_0_pool_0_0] Worker needs restart after task
+2026-05-19 08:27:15,407 [INFO] kernelgym.subprocess_pool: [worker_gpu_0_pool_0_0] Restarting worker (processed 1 tasks)
+2026-05-19 08:27:15,409 [INFO] kernelgym.subprocess_pool: [worker_gpu_0_pool_0_0] Shutting down worker...
+[worker_gpu_0_pool_0_0] Received SHUTDOWN command
+[worker_gpu_0_pool_0_0] Worker exiting normally (processed 1 tasks)
+[worker_gpu_0_pool_0_0] Performing final GPU cleanup...
+[worker_gpu_0_pool_0_0] Final GPU cleanup completed
+[worker_gpu_0_pool_0_0] CUDA context synchronized before exit
+Built so path: /tmp/cuda_agent_fzcdexzu/build/forced_compile/cuda_agent_fzcdexzu.so
+Output so path: /tmp/cuda_agent_fzcdexzu/cuda_extension.so
+device: cuda:0
+inputs: cuda:0
+device: cuda:0
+inputs: cuda:0
+[Profiling] Using device: cuda:0 NVIDIA GeForce RTX 4090, warm up 3, trials 5
+[Profiling] Running 5 additional iterations for profiling...
+[Profiler] Preflight CUDA op executed
+[Profiler] Initializing with activities: ['ProfilerActivity.CPU', 'ProfilerActivity.CUDA']
+[Profiler] Profiler started successfully
+[Profiler] Context pid=%s cuda_available=%s device=%s CUDA_VISIBLE_DEVICES=%s 44551 True cuda:0 (NVIDIA GeForce RTX 4090) 
+[Profiler] Profiler stopped successfully
+[Profiler] key_averages: -------------------------------------------------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  
+                                                   Name    Self CPU %      Self CPU   CPU total %     CPU total  CPU time avg     Self CUDA   Self CUDA %    CUDA total  CUDA time avg       CPU Mem  Self CPU Mem      CUDA Mem  Self CUDA Mem    # of Calls  
+-------------------------------------------------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  
+                                       aten::empty_like         1.39%      28.610us         3.81%      78.703us      15.741us       0.000us         0.00%       0.000us       0.000us           0 B           0 B       2.50 KB           0 B             5  
+                                    aten::empty_strided         2.43%      50.093us         2.43%      50.093us      10.019us       0.000us         0.00%       0.000us       0.000us           0 B           0 B       2.50 KB       2.50 KB             5  
+                                       cudaLaunchKernel         3.23%      66.691us        95.45%       1.970ms     394.086us       0.000us         0.00%       0.000us       0.000us           0 B           0 B           0 B           0 B             5  
+void axpby_kernel<256>(float*, float const*, float c...         0.00%       0.000us         0.00%       0.000us       0.000us       5.760us       100.00%       5.760us       1.152us           0 B           0 B           0 B           0 B             5  
+                                Activity Buffer Request        92.22%       1.904ms        92.22%       1.904ms       1.904ms       0.000us         0.00%       0.000us       0.000us           0 B           0 B           0 B           0 B             1  
+                                               [memory]         0.00%       0.000us         0.00%       0.000us       0.000us       0.000us         0.00%       0.000us       0.000us           0 B           0 B      -2.50 KB      -2.50 KB             5  
+                                  cudaDeviceSynchronize         0.74%      15.322us         0.74%      15.322us       7.661us       0.000us         0.00%       0.000us       0.000us           0 B           0 B           0 B           0 B             2  
+-------------------------------------------------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  
+Self CPU time total: 2.064ms
+Self CUDA time total: 5.760us
+
+[Profiling] Captured 1 CUDA kernels
+[Profiling] Total CUDA time: 5.76 us
+[DEBUG] profiling_metrics type: <class 'dict'>, empty: False
+[DEBUG Profiling] profiling_metrics keys: dict_keys(['kernels', 'kernel_count', 'total_cpu_time_us', 'total_cuda_time_us', 'total_self_cuda_time_us', 'cuda_device_event_count', 'cuda_time_event_count', 'self_cuda_time_event_count', 'cuda_launch_api_calls', 'has_cuda_launch_api', 'event_name_sample', 'memory_stats'])
+[DEBUG Profiling] kernel_count: 1
+[DEBUG Profiling] triton_profiler_matches: []
+[DEBUG Coverage] num_custom_kernels: 1
+[DEBUG Coverage] num_total_kernels: 1
+[INFO] CUDA backend: Profiler captured 1 custom kernels - accepting as valid
+[DEBUG] Profiling captured 1 kernels
+2026-05-19 08:27:16,202 [INFO] kernelgym.subprocess_pool: [worker_gpu_0_pool_0_0] Worker shut down (processed 1 tasks in 122.9s)
+2026-05-19 08:27:18,204 [INFO] kernelgym.subprocess_pool: [worker_gpu_0_pool_0_0] Starting persistent worker for GPU 0 (pool_size=1, max_tasks=1, restart)
+[worker_gpu_0_pool_0_0] Initialized successfully (device=cuda:0, init_time=0.16s)
+2026-05-19 08:27:20,499 [INFO] kernelgym.subprocess_pool: [worker_gpu_0_pool_0_0] Worker initialized successfully (init_time=0.16s)
+2026-05-19 08:27:20,499 [INFO] kernelgym.subprocess_pool: [worker_gpu_0_pool_0_0] Worker restarted successfully (total restarts: 1)
+2026-05-19 08:27:20,506 [INFO] kernelgym.worker: Worker worker_gpu_0 completed task test_api_1779179222_kernel in 17.94s

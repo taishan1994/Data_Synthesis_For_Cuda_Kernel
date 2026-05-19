@@ -1,0 +1,117 @@
+#!/bin/bash
+
+# Reserve the last 4 GPUs for RL training by default.
+export CUDA_VISIBLE_DEVICES="${RL_TRAIN_CUDA_VISIBLE_DEVICES:-4,5,6,7}"
+
+TRAIN_DATASET=("/nfs/FM/gongoubo/cuda_kernel/KernelGYM/drkernel/kernel/scripts/rl/data/drkernel-cuda-rl-data-parquet")    # you need to set your own training dataset
+VALID_DATASET=("/nfs/FM/gongoubo/cuda_kernel/KernelGYM/drkernel/kernel/scripts/rl/data/drkernel-validation-data-parquet")    # you need to set your own validation dataset
+KERNELGYM_SERVER_URL="http://192.168.16.17:8001"   # set directly or via env
+MODEL_NAME=qwen3-8b-cold
+MODEL_PATH=/nfs/FM/gongoubo/cuda_kernel/ms_swift/output_drkernel/v4-20260419-013733/checkpoint-865
+
+RUN_NAME="drkernel-8b-cuda"
+REWARD_MANAGER=kernel_async
+REWARD_FUNC_NAME="calculate_reward_speedup"
+
+
+ALGORITHM="trloo"
+
+SPEEDUP_REWARD_UPPER_BOUND=3.0
+SPEEDUP_REWARD_LOWER_BOUND=0.0
+
+ROLLOUT_RS="geometric"
+ROLLOUT_TOKEN_VETO_THRESHOLD=1e-4
+ROLLOUT_RS_KWARGS="{lower:0.999,upper:1.001}"
+
+COVERAGE_RS="turn"
+COVERAGE_RS_THRESHOLD=0.3
+COVERAGE_RS_FACTOR=0.1
+COVERAGE_RS_KEY="time_coverage"
+
+COVERAGE_REWARD_TYPE="time_coverage"
+COVERAGE_REWARD_WEIGHT=0.5
+COVERAGE_REWARD_ENABLE=True
+
+REWARD_TASK_TIMEOUT=300
+REWARD_TIMEOUT=1800
+REWARD_ACQUIRE_TIMEOUT=2400
+# Lower reward-side concurrency to reduce evaluation pile-up and long pending queues.
+REWARD_MAX_CONCURRENT=12
+REWARD_MAX_RETRIES=3
+REWARD_PRINT_STATUS=True
+NUM_PERF_TRIALS=100
+REWARD_TASK_TIMEOUT_CLIENT=2400
+REWARD_RATE_LIMIT=24
+
+VAL_BEFORE_TRAIN=False
+IS_GET_LAST_TURN=True
+
+# SWE-Agent-specific parameter overrides
+ENABLE_MULTI_TURN=False
+MAX_TURN=1
+VAL_MAX_TURN=1
+N_VAL=4
+ACTOR_OPTIMIZER_OFFLOAD=True
+ACTOR_PARAMETER_OFFLOAD=True
+LEARNING_RATE=1e-6
+
+TRAIN_BATCH_SIZE=8
+PPO_MINI_BATCH_SIZE=8
+
+AUTOMATIC_OVERSAMPLING=False
+REJECTION_SAMPLE=True
+
+PPO_MICRO_TOKEN=null
+CLIP_RATIO=0.2_0.28
+ENTROPY_CLIP_RATE=0.0
+GRAD_CLIP=1.0
+VLLM_IS_THRESHOLD=2.0
+EXTREME_RISK_PROB_THRESHOLD=null
+KL_LOSS_COEF=0.0
+ENTROPY_COEFFIENT=0.0
+KL_LOSS_TYPE="low_var_kl"
+TEMPERATURE=${RL_TRAIN_TEMPERATURE:-0.8}
+MIN_P=0.0
+TOP_P=${RL_TRAIN_TOP_P:-0.95}
+TOP_K=-1
+ROLLOUT_N=8
+KL_COEF=0.0
+TOTAL_EPOCHS=1000
+ROLLOUT_GPU_MEMORY_UTIL=0.70
+
+SAVE_FREQ=20
+TEST_FREQ=20
+ROLLOUT_TENSOR_MODEL_PARALLEL_SIZE=1
+SP_SIZE=4
+NUM_PERF_TRIALS=100
+APPLY_CHAT_TEMPLATE=True
+APPLY_CHAT_TEMPLATE_ENABLE_THINKING=True
+FREE_CACHE_ENGINE=True
+ENFORCE_EAGER=False
+FIX_QWEN3_CHAT_TEMPLATE=True
+ROLLOUT_STOP_TOKEN_IDS='[]'
+VAL_STOP_TOKEN_IDS='[]'
+ROLLOUT_IGNORE_EOS=True
+VAL_IGNORE_EOS=True
+
+# CUDA prompt config for multi-turn
+PROMPT_CONFIG_PATH="kernel/config/prompt_config/multi_turn_kernel_cuda.yaml"
+
+NNODES=$ARNOLD_WORKER_NUM
+GPUS_PER_NODE=${RL_TRAIN_GPUS_PER_NODE:-4}
+if [ -n "$CUDA_VISIBLE_DEVICES" ] && [ -z "${RL_TRAIN_GPUS_PER_NODE:-}" ]; then
+    GPUS_PER_NODE=$(echo "$CUDA_VISIBLE_DEVICES" | awk -F',' '{print NF}')
+fi
+
+MAX_PROMPT_LENGTH=16384
+MAX_RESPONSE_LENGTH=16384
+PROMPT_OVERSAMPLING_FACTOR=1.0
+SAMPLE_OVERSAMPLING_FACTOR=1.0
+SAMPLE_SELECTION_STRATEGY=efficiency_stochastic
+MAX_SKIP_STEPS=5
+
+# Load and execute common script
+source "$(dirname "$0")/train_rl_common.sh"
+
+# Call main function with all arguments
+main "$@"

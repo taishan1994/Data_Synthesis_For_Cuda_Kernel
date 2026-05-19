@@ -1,0 +1,5 @@
+2026-05-19 08:25:15,331 [INFO] root: Logging configured for worker_monitor - File logging: True
+2026-05-19 08:25:15,331 [INFO] root: Log files will be written to: /nfs/FM/gongoubo/new_project/github/Data_Synthesis_For_Cuda_Kernel/KernelGYM/kernelgym/logs
+2026-05-19 08:25:15,333 [INFO] root: Redis connection established for worker monitor
+2026-05-19 08:25:15,334 [INFO] kernelgym.worker_monitor: Worker monitor configured with heartbeat_timeout=120s, monitor_interval=30s, restart_cooldown=60s
+2026-05-19 08:25:15,334 [INFO] kernelgym.worker_monitor: Starting worker monitor

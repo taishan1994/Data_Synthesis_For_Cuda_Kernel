@@ -1,0 +1,739 @@
+2026-05-19 08:18:28,096 [INFO] kernelgym.api [settings.py:365] - Logging configured for api - File logging: True
+2026-05-19 08:18:28,096 [INFO] kernelgym.api [settings.py:371] - Log files will be written to: /nfs/FM/gongoubo/new_project/github/Data_Synthesis_For_Cuda_Kernel/KernelGYM/kernelgym/logs
+2026-05-19 08:18:28,243 [INFO] kernelgym.api [settings.py:365] - Logging configured for api - File logging: True
+2026-05-19 08:18:28,243 [INFO] kernelgym.api [settings.py:371] - Log files will be written to: /nfs/FM/gongoubo/new_project/github/Data_Synthesis_For_Cuda_Kernel/KernelGYM/kernelgym/logs
+2026-05-19 08:18:28,244 [INFO] kernelgym.api [server.py:55] - Starting KernelGym...
+2026-05-19 08:18:28,245 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:28,750 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:29,253 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:29,755 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:30,257 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:30,759 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:31,260 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:31,762 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:32,264 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:32,766 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:33,267 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:33,768 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:34,270 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:34,773 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:35,275 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:35,777 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:36,279 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:36,781 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:37,283 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:37,784 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:38,286 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:38,788 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:39,290 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:39,792 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:40,294 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:40,796 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:41,298 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:41,800 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:42,302 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:42,804 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:43,306 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:43,807 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:44,309 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:44,810 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:45,312 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:45,813 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:46,315 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:46,818 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:47,320 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:47,822 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:48,324 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:48,826 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:49,328 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:49,829 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:50,331 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:50,833 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:51,335 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:51,837 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:52,339 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:52,840 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Error while reading from 192.168.16.4:6379 : (104, 'Connection reset by peer'). Retrying...
+2026-05-19 08:18:53,342 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:53,844 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:54,346 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:54,848 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:55,350 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:55,852 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:56,354 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:56,856 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:57,358 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:57,860 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:58,362 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:58,864 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:59,365 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:18:59,867 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:00,368 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:00,870 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:01,372 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:01,874 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:02,376 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:02,878 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:03,380 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:03,882 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:04,384 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:04,886 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:05,388 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:05,890 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:06,392 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:06,894 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:07,396 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:07,897 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:08,399 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:08,900 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:09,402 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:09,904 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:10,406 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:10,908 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:11,410 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:11,912 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:12,414 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:12,916 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:13,418 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:13,920 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:14,422 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:14,924 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:15,426 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:15,928 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:16,430 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:16,932 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:17,434 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:17,936 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:18,438 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:18,939 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:19,441 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:19,943 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:20,445 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:20,947 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:21,449 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:21,950 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:22,452 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:22,955 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:23,457 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:23,959 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:24,460 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:24,962 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:25,464 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:25,966 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:26,467 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:26,969 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:27,471 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:27,973 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:19:28,475 [WARNING] kernelgym.api [server.py:71] - Redis connection not ready: Connection closed by server.. Retrying...
+2026-05-19 08:21:50,363 [INFO] kernelgym.api [settings.py:365] - Logging configured for api - File logging: True
+2026-05-19 08:21:50,363 [INFO] kernelgym.api [settings.py:371] - Log files will be written to: /nfs/FM/gongoubo/new_project/github/Data_Synthesis_For_Cuda_Kernel/KernelGYM/kernelgym/logs
+2026-05-19 08:21:50,470 [INFO] kernelgym.api [settings.py:365] - Logging configured for api - File logging: True
+2026-05-19 08:21:50,470 [INFO] kernelgym.api [settings.py:371] - Log files will be written to: /nfs/FM/gongoubo/new_project/github/Data_Synthesis_For_Cuda_Kernel/KernelGYM/kernelgym/logs
+2026-05-19 08:21:50,471 [INFO] kernelgym.api [server.py:55] - Starting KernelGym...
+2026-05-19 08:21:50,472 [INFO] kernelgym.api [server.py:81] - Redis connection established
+2026-05-19 08:21:50,473 [INFO] kernelgym.api [server.py:86] - Task manager initialized
+2026-05-19 08:21:50,473 [INFO] kernelgym.api [server.py:89] - Initializing GPU workers for devices: [0, 1]
+2026-05-19 08:23:24,054 [INFO] kernelgym.api [settings.py:365] - Logging configured for api - File logging: True
+2026-05-19 08:23:24,054 [INFO] kernelgym.api [settings.py:371] - Log files will be written to: /nfs/FM/gongoubo/new_project/github/Data_Synthesis_For_Cuda_Kernel/KernelGYM/kernelgym/logs
+2026-05-19 08:23:24,155 [INFO] kernelgym.api [settings.py:365] - Logging configured for api - File logging: True
+2026-05-19 08:23:24,156 [INFO] kernelgym.api [settings.py:371] - Log files will be written to: /nfs/FM/gongoubo/new_project/github/Data_Synthesis_For_Cuda_Kernel/KernelGYM/kernelgym/logs
+2026-05-19 08:23:24,156 [INFO] kernelgym.api [server.py:55] - Starting KernelGym...
+2026-05-19 08:23:24,157 [INFO] kernelgym.api [server.py:81] - Redis connection established
+2026-05-19 08:23:24,157 [INFO] kernelgym.api [server.py:86] - Task manager initialized
+2026-05-19 08:23:24,157 [INFO] kernelgym.api [server.py:89] - Initializing GPU workers for devices: [0, 1]
+2026-05-19 08:23:24,442 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/register?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:23:24,443 [INFO] kernelgym.api [server.py:747] - /worker/register received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:23:24,444 [INFO] kernelgym.api [server.py:752] - Worker worker_gpu_0 registered successfully with device cuda:0; LB now has: ['worker_gpu_0']
+2026-05-19 08:23:24,445 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0028s
+2026-05-19 08:23:24,446 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:47176 - "POST /worker/register?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:23:24,663 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/register?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:23:24,664 [INFO] kernelgym.api [server.py:747] - /worker/register received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:23:24,666 [INFO] kernelgym.api [server.py:752] - Worker worker_gpu_1 registered successfully with device cuda:1; LB now has: ['worker_gpu_0', 'worker_gpu_1']
+2026-05-19 08:23:24,667 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0040s
+2026-05-19 08:23:24,667 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:47178 - "POST /worker/register?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:23:27,007 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:23:27,007 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:23:27,008 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_0', 'worker_gpu_1']
+2026-05-19 08:23:27,008 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0009s
+2026-05-19 08:23:27,008 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:47176 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:23:27,183 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:23:27,184 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:23:27,184 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_0', 'worker_gpu_1']
+2026-05-19 08:23:27,184 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0006s
+2026-05-19 08:23:27,184 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:47178 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:25:12,756 [INFO] kernelgym.api [settings.py:365] - Logging configured for api - File logging: True
+2026-05-19 08:25:12,756 [INFO] kernelgym.api [settings.py:371] - Log files will be written to: /nfs/FM/gongoubo/new_project/github/Data_Synthesis_For_Cuda_Kernel/KernelGYM/kernelgym/logs
+2026-05-19 08:25:12,839 [INFO] kernelgym.api [settings.py:365] - Logging configured for api - File logging: True
+2026-05-19 08:25:12,840 [INFO] kernelgym.api [settings.py:371] - Log files will be written to: /nfs/FM/gongoubo/new_project/github/Data_Synthesis_For_Cuda_Kernel/KernelGYM/kernelgym/logs
+2026-05-19 08:25:12,841 [INFO] kernelgym.api [server.py:55] - Starting KernelGym...
+2026-05-19 08:25:12,842 [INFO] kernelgym.api [server.py:81] - Redis connection established
+2026-05-19 08:25:12,842 [INFO] kernelgym.api [server.py:86] - Task manager initialized
+2026-05-19 08:25:12,843 [INFO] kernelgym.api [server.py:89] - Initializing GPU workers for devices: [0, 1]
+2026-05-19 08:25:12,904 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/register?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:25:12,906 [INFO] kernelgym.api [server.py:747] - /worker/register received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:25:12,907 [INFO] kernelgym.api [server.py:752] - Worker worker_gpu_1 registered successfully with device cuda:1; LB now has: ['worker_gpu_1']
+2026-05-19 08:25:12,907 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0031s
+2026-05-19 08:25:12,908 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:41892 - "POST /worker/register?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:25:13,218 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/register?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:25:13,220 [INFO] kernelgym.api [server.py:747] - /worker/register received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:25:13,222 [INFO] kernelgym.api [server.py:752] - Worker worker_gpu_0 registered successfully with device cuda:0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:25:13,223 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0044s
+2026-05-19 08:25:13,224 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:41912 - "POST /worker/register?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:25:15,567 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:25:15,568 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:25:15,568 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:25:15,569 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0020s
+2026-05-19 08:25:15,569 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:41892 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:25:15,780 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:25:15,781 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:25:15,781 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:25:15,782 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0017s
+2026-05-19 08:25:15,782 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:41912 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:25:25,573 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:25:25,574 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:25:25,575 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:25:25,576 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0037s
+2026-05-19 08:25:25,578 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:40460 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:25:25,788 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:25:25,789 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:25:25,790 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:25:25,792 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0039s
+2026-05-19 08:25:25,793 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:40490 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:25:35,583 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:25:35,584 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:25:35,585 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:25:35,587 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0043s
+2026-05-19 08:25:35,588 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:60006 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:25:35,798 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:25:35,799 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:25:35,801 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:25:35,802 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0038s
+2026-05-19 08:25:35,803 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:60008 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:25:45,592 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:25:45,593 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:25:45,594 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:25:45,596 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0033s
+2026-05-19 08:25:45,596 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:35740 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:25:45,808 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:25:45,809 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:25:45,810 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:25:45,811 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0036s
+2026-05-19 08:25:45,812 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:35744 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:25:55,603 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:25:55,604 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:25:55,606 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:25:55,607 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0041s
+2026-05-19 08:25:55,608 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:45900 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:25:55,817 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:25:55,818 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:25:55,819 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:25:55,820 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0029s
+2026-05-19 08:25:55,820 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:45902 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:26:05,614 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:26:05,615 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:26:05,616 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:26:05,618 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0036s
+2026-05-19 08:26:05,618 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:36864 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:26:05,824 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:26:05,826 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:26:05,831 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:26:05,833 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0089s
+2026-05-19 08:26:05,834 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:36866 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:26:08,111 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/evaluate
+2026-05-19 08:26:08,111 [INFO] kernelgym.api [server.py:279] - Request body for task test_api_1779179168: 4035 bytes
+2026-05-19 08:26:15,631 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:26:15,633 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:26:15,633 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:26:15,634 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0032s
+2026-05-19 08:26:15,635 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:46758 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:26:15,841 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:26:15,843 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:26:15,844 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:26:15,846 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0047s
+2026-05-19 08:26:15,847 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:46760 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:26:25,641 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:26:25,642 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:26:25,646 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:26:25,648 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0075s
+2026-05-19 08:26:25,650 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:40778 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:26:25,853 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:26:25,855 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:26:25,861 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:26:25,870 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0170s
+2026-05-19 08:26:25,878 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:40784 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:26:31,206 [INFO] kernelgym.api [server.py:290] - Response: 200 - 23.0951s
+2026-05-19 08:26:31,206 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:36910 - "POST /evaluate HTTP/1.1" 200
+2026-05-19 08:26:35,655 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:26:35,657 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:26:35,657 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:26:35,661 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0060s
+2026-05-19 08:26:35,663 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:41414 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:26:35,903 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:26:35,904 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:26:35,905 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:26:35,906 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0036s
+2026-05-19 08:26:35,908 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:41418 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:26:45,668 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:26:45,669 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:26:45,670 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:26:45,671 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0031s
+2026-05-19 08:26:45,672 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:52252 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:26:45,912 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:26:45,913 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:26:45,913 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:26:45,915 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0027s
+2026-05-19 08:26:45,916 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:52254 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:26:55,677 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:26:55,678 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:26:55,678 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:26:55,680 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0031s
+2026-05-19 08:26:55,680 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:51704 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:26:55,921 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:26:55,922 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:26:55,923 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:26:55,925 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0040s
+2026-05-19 08:26:55,926 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:51732 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:27:02,534 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/evaluate
+2026-05-19 08:27:02,534 [INFO] kernelgym.api [server.py:279] - Request body for task test_api_1779179222: 4035 bytes
+2026-05-19 08:27:05,685 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:27:05,686 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:27:05,688 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:27:05,690 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0045s
+2026-05-19 08:27:05,691 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:49726 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:27:05,935 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:27:05,936 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:27:05,937 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:27:05,939 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0043s
+2026-05-19 08:27:05,940 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:49736 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:27:15,697 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:27:15,699 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:27:15,803 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:27:15,821 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.1240s
+2026-05-19 08:27:15,824 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:48162 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:27:20,507 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:27:20,508 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:27:20,509 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:27:20,509 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0020s
+2026-05-19 08:27:20,509 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:48240 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:27:25,829 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:27:25,831 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:27:25,832 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:27:25,835 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0061s
+2026-05-19 08:27:25,837 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:38828 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:27:26,079 [INFO] kernelgym.api [server.py:290] - Response: 200 - 23.5450s
+2026-05-19 08:27:26,079 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:49650 - "POST /evaluate HTTP/1.1" 200
+2026-05-19 08:27:28,092 [INFO] kernelgym.api [server.py:268] - Request: GET http://192.168.16.4:8001/status/test_api_1779179222
+2026-05-19 08:27:28,094 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0022s
+2026-05-19 08:27:28,096 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:38882 - "GET /status/test_api_1779179222 HTTP/1.1" 200
+2026-05-19 08:27:28,100 [INFO] kernelgym.api [server.py:268] - Request: GET http://192.168.16.4:8001/results/test_api_1779179222
+2026-05-19 08:27:28,102 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0019s
+2026-05-19 08:27:28,103 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:38884 - "GET /results/test_api_1779179222 HTTP/1.1" 200
+2026-05-19 08:27:30,513 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:27:30,514 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:27:30,516 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:27:30,517 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0040s
+2026-05-19 08:27:30,518 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:38916 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:27:35,843 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:27:35,844 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:27:35,844 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:27:35,846 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0037s
+2026-05-19 08:27:35,847 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:60398 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:27:40,524 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:27:40,525 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:27:40,526 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:27:40,530 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0057s
+2026-05-19 08:27:40,531 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:60500 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:27:45,852 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:27:45,853 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:27:45,854 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:27:45,855 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0032s
+2026-05-19 08:27:45,856 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:38834 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:27:50,538 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:27:50,539 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:27:50,541 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:27:50,568 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0301s
+2026-05-19 08:27:50,569 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:39278 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:27:55,862 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:27:55,863 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:27:55,864 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:27:55,866 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0040s
+2026-05-19 08:27:55,867 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:55314 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:28:00,576 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:28:00,577 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:28:00,578 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:28:00,579 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0037s
+2026-05-19 08:28:00,580 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:55678 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:28:05,872 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:28:05,874 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:28:05,874 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:28:05,876 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0036s
+2026-05-19 08:28:05,876 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:42236 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:28:10,584 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:28:10,586 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:28:10,586 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:28:10,588 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0032s
+2026-05-19 08:28:10,589 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:42650 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:28:15,881 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:28:15,883 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:28:15,884 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:28:15,885 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0037s
+2026-05-19 08:28:15,886 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:45014 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:28:20,594 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:28:20,595 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:28:20,597 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:28:20,598 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0041s
+2026-05-19 08:28:20,603 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:45486 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:28:25,890 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:28:25,892 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:28:25,894 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:28:25,896 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0053s
+2026-05-19 08:28:25,897 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:48538 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:28:30,609 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:28:30,611 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:28:30,611 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:28:30,612 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0031s
+2026-05-19 08:28:30,613 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:49006 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:28:35,903 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:28:35,904 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:28:35,905 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:28:35,906 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0030s
+2026-05-19 08:28:35,906 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:37130 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:28:40,617 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:28:40,619 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:28:40,620 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:28:40,621 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0038s
+2026-05-19 08:28:40,622 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:37594 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:28:45,911 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:28:45,912 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:28:45,913 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:28:45,915 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0048s
+2026-05-19 08:28:45,917 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:59940 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:28:50,628 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:28:50,629 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:28:50,634 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:28:50,638 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0100s
+2026-05-19 08:28:50,648 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:60420 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:28:55,921 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:28:55,922 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:28:55,923 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:28:55,924 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0031s
+2026-05-19 08:28:55,925 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:47162 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:29:00,657 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:29:00,658 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:29:00,660 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:29:00,662 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0049s
+2026-05-19 08:29:00,666 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:47646 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:29:05,931 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:29:05,932 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:29:05,933 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:29:05,934 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0036s
+2026-05-19 08:29:05,935 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:44512 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:29:10,674 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:29:10,676 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:29:10,677 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:29:10,678 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0036s
+2026-05-19 08:29:10,679 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:44928 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:29:15,941 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:29:15,942 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:29:15,942 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:29:15,944 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0031s
+2026-05-19 08:29:15,945 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:40006 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:29:20,684 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:29:20,685 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:29:20,685 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:29:20,687 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0028s
+2026-05-19 08:29:20,687 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:40446 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:29:25,951 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:29:25,952 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:29:25,981 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:29:25,984 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0332s
+2026-05-19 08:29:25,985 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:42072 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:29:30,692 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:29:30,694 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:29:30,694 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:29:30,695 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0026s
+2026-05-19 08:29:30,696 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:42444 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:29:35,990 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:29:35,991 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:29:35,992 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:29:35,993 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0032s
+2026-05-19 08:29:35,994 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:52496 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:29:40,701 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:29:40,701 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:29:40,702 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:29:40,703 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0026s
+2026-05-19 08:29:40,704 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:52838 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:29:46,000 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:29:46,001 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:29:46,002 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:29:46,003 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0025s
+2026-05-19 08:29:46,004 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:50010 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:29:50,709 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:29:50,710 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:29:50,711 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:29:50,712 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0029s
+2026-05-19 08:29:50,713 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:50078 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:29:56,008 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:29:56,009 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:29:56,009 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:29:56,010 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0025s
+2026-05-19 08:29:56,011 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:52768 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:30:00,719 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:30:00,720 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:30:00,721 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:30:00,722 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0035s
+2026-05-19 08:30:00,723 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:52824 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:30:06,016 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:30:06,017 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:30:06,021 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:30:06,023 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0071s
+2026-05-19 08:30:06,023 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:34508 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:30:10,727 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:30:10,728 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:30:10,729 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:30:10,730 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0024s
+2026-05-19 08:30:10,730 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:34778 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:30:16,028 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:30:16,030 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:30:16,031 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:30:16,032 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0040s
+2026-05-19 08:30:16,033 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:33054 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:30:20,735 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:30:20,736 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:30:20,737 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:30:20,738 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0031s
+2026-05-19 08:30:20,739 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:33178 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:30:26,038 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:30:26,039 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:30:26,040 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:30:26,045 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0066s
+2026-05-19 08:30:26,054 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:36646 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:30:30,743 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:30:30,744 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:30:30,745 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:30:30,747 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0038s
+2026-05-19 08:30:30,747 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:36858 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:30:36,059 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:30:36,061 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:30:36,062 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:30:36,063 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0038s
+2026-05-19 08:30:36,064 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:52498 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:30:40,754 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:30:40,755 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:30:40,756 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:30:40,757 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0039s
+2026-05-19 08:30:40,758 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:52900 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:30:46,068 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:30:46,069 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:30:46,069 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:30:46,071 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0029s
+2026-05-19 08:30:46,073 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:46308 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:30:50,763 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:30:50,764 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:30:50,765 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:30:50,766 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0028s
+2026-05-19 08:30:50,767 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:46546 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:30:56,079 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:30:56,080 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:30:56,082 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:30:56,083 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0040s
+2026-05-19 08:30:56,085 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:50930 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:31:00,771 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:31:00,772 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:31:00,774 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:31:00,777 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0063s
+2026-05-19 08:31:00,778 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:51218 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:31:06,090 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:31:06,091 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:31:06,092 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:31:06,095 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0057s
+2026-05-19 08:31:06,097 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:37692 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:31:10,783 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:31:10,784 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:31:10,784 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:31:10,785 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0022s
+2026-05-19 08:31:10,786 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:37898 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:31:16,102 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:31:16,103 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:31:16,104 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:31:16,105 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0030s
+2026-05-19 08:31:16,107 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:46210 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:31:20,789 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:31:20,790 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:31:20,792 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:31:20,793 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0037s
+2026-05-19 08:31:20,794 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:46414 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:31:26,113 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:31:26,114 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:31:26,120 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:31:26,123 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0099s
+2026-05-19 08:31:26,127 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:54716 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:31:30,799 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:31:30,800 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:31:30,801 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:31:30,802 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0030s
+2026-05-19 08:31:30,803 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:55042 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:31:36,134 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:31:36,135 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:31:36,135 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:31:36,137 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0030s
+2026-05-19 08:31:36,138 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:51324 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:31:40,808 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:31:40,809 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:31:40,810 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:31:40,814 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0058s
+2026-05-19 08:31:40,814 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:51554 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:31:46,142 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:31:46,143 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:31:46,152 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:31:46,156 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0145s
+2026-05-19 08:31:46,158 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:44918 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:31:50,819 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:31:50,820 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:31:50,821 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:31:50,824 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0051s
+2026-05-19 08:31:50,825 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:45210 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:31:56,163 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:31:56,164 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:31:56,164 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:31:56,165 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0028s
+2026-05-19 08:31:56,166 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:55590 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:32:00,829 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:32:00,830 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:32:00,831 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:32:00,833 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0047s
+2026-05-19 08:32:00,836 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:55662 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:32:06,172 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:32:06,174 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:32:06,174 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:32:06,176 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0042s
+2026-05-19 08:32:06,178 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:35802 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:32:10,841 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:32:10,842 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:32:10,843 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:32:10,844 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0027s
+2026-05-19 08:32:10,844 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:35868 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:32:16,183 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:32:16,184 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:32:16,185 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:32:16,187 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0040s
+2026-05-19 08:32:16,191 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:46220 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:32:20,849 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:32:20,850 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:32:20,850 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:32:20,851 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0024s
+2026-05-19 08:32:20,852 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:46410 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:32:26,201 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:32:26,202 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:32:26,228 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:32:26,370 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.1692s
+2026-05-19 08:32:26,372 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:35690 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:32:30,856 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:32:30,858 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:32:30,858 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:32:30,859 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0028s
+2026-05-19 08:32:30,860 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:35768 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:32:36,380 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:32:36,381 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:32:36,382 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:32:36,383 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0032s
+2026-05-19 08:32:36,384 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:50594 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:32:40,864 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:32:40,866 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:32:40,866 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:32:40,867 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0028s
+2026-05-19 08:32:40,868 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:50654 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:32:46,390 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:32:46,391 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:32:46,392 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:32:46,395 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0051s
+2026-05-19 08:32:46,395 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:41962 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:32:50,872 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:32:50,873 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:32:50,874 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:32:50,876 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0047s
+2026-05-19 08:32:50,878 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:42028 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:32:56,401 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:32:56,402 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:32:56,402 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:32:56,403 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0027s
+2026-05-19 08:32:56,404 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:53710 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:33:00,883 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:33:00,884 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:33:00,885 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:33:00,886 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0030s
+2026-05-19 08:33:00,887 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:53782 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:33:06,409 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:33:06,409 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:33:06,410 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:33:06,411 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0029s
+2026-05-19 08:33:06,412 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:34690 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:33:10,891 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:33:10,893 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:33:10,894 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:33:10,895 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0036s
+2026-05-19 08:33:10,896 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:34760 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:33:16,416 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:33:16,418 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:33:16,419 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:33:16,420 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0034s
+2026-05-19 08:33:16,420 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:42938 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:33:20,901 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:33:20,902 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:33:20,903 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:33:20,904 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0026s
+2026-05-19 08:33:20,904 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:43012 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:33:26,425 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:33:26,426 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:33:26,427 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:33:26,429 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0044s
+2026-05-19 08:33:26,431 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:60278 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:33:30,909 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:33:30,910 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:33:30,910 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:33:30,912 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0029s
+2026-05-19 08:33:30,912 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:60370 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:33:36,436 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:33:36,437 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:33:36,438 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:33:36,439 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0030s
+2026-05-19 08:33:36,440 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:51138 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:33:40,917 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:33:40,918 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:33:40,919 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:33:40,920 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0032s
+2026-05-19 08:33:40,920 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:51196 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:33:46,445 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:33:46,446 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:33:46,448 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:33:46,449 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0040s
+2026-05-19 08:33:46,450 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:55974 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:33:50,926 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:33:50,927 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:33:50,927 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:33:50,929 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0035s
+2026-05-19 08:33:50,930 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:56060 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:33:56,461 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:33:56,462 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:33:56,463 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:33:56,464 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0025s
+2026-05-19 08:33:56,465 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:43544 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:34:00,935 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:34:00,936 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:34:00,971 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:34:00,988 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0531s
+2026-05-19 08:34:00,991 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:43610 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:34:06,469 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:34:06,470 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:34:06,471 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:34:06,473 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0037s
+2026-05-19 08:34:06,474 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:34806 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:34:10,996 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:34:10,998 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_0, device=cuda:0, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:34:10,999 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_0; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:34:11,000 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0034s
+2026-05-19 08:34:11,000 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:34900 - "POST /worker/heartbeat?worker_id=worker_gpu_0&device=cuda:0&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200
+2026-05-19 08:34:16,479 [INFO] kernelgym.api [server.py:268] - Request: POST http://192.168.16.4:8001/worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4
+2026-05-19 08:34:16,480 [INFO] kernelgym.api [server.py:801] - /worker/heartbeat received: worker_id=worker_gpu_1, device=cuda:1, node_id=ai-16-2, hostname=ai-16-4
+2026-05-19 08:34:16,481 [INFO] kernelgym.api [server.py:859] - Heartbeat updated for worker_gpu_1; LB now has: ['worker_gpu_1', 'worker_gpu_0']
+2026-05-19 08:34:16,483 [INFO] kernelgym.api [server.py:290] - Response: 200 - 0.0048s
+2026-05-19 08:34:16,486 [INFO] uvicorn.access [httptools_impl.py:496] - 192.168.16.4:59778 - "POST /worker/heartbeat?worker_id=worker_gpu_1&device=cuda:1&node_id=ai-16-2&hostname=ai-16-4 HTTP/1.1" 200

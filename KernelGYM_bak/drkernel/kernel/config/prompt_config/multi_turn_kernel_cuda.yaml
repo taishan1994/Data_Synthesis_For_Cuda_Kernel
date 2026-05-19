@@ -1,0 +1,46 @@
+method: system
+prompt: null
+
+per_turn_prompts:
+  - name: first_turn
+    condition: "current_turn == 0"
+    history_mode: all
+    skip_env: 0.0
+    response_truncation: python_code, answer_code
+    template: null
+  - name: tool_response
+    condition: "make_up_tool_response == True"
+    history_mode: all
+    skip_env: 0.0
+    response_truncation: python_code, answer_code
+    update_memory: false
+    template: |
+      Now you have received the server feedback for your last implementation.
+
+      CRITICAL INSTRUCTION:
+      Even if your previous implementation was correct and achieved a good speedup, you MUST TRY A DIFFERENT OPTIMIZATION STRATEGY in this iteration to achieve an even better performance.
+      DO NOT output the exact same code as before. You should explore advanced CUDA optimization techniques such as:
+      - Vectorized memory accesses (e.g., float4)
+      - Shared memory caching and tiling
+      - Loop unrolling
+      - Thread coarsening
+      - Warp-level primitives
+      - Better grid/block configurations
+      and so on.
+
+      ABOUT "decoy_kernel":
+      In the server feedback, you might see `"decoy_kernel": true`. A "decoy kernel" means the evaluation system detected that you bypassed writing actual custom CUDA kernels and instead used PyTorch's native operators (e.g., `torch.matmul`, `F.softmax`, `torch.exp`) or their C++ equivalents (`aten::*`) as a shortcut.
+      To avoid generating decoy kernels:
+      1. You MUST write genuine custom CUDA C++ kernels (`__global__` functions) for the core computations.
+      2. DO NOT use native PyTorch operators in `model_new.py` or C++ bindings to cheat the performance test.
+      3. Only `cuBLAS` (for GEMM) and `cuDNN` (for Conv) are allowed as third-party calls; everything else must be implemented by you.
+      and son on.
+
+      Here is the server feedback. Please refer to this feedback to improve the implementation:
+      Server feedback (status/metrics/errors):
+
+      Feel free to modify the APPLY_BINDINGS and MODEL_NEW sections if needed.
+
+      {feedback}
+
+ 

@@ -1,0 +1,63 @@
+2026-05-19 08:23:23,926 [INFO] kernelgym.worker [gpu_worker.py:115] - Starting GPU worker worker_gpu_0 on device cuda:0
+2026-05-19 08:23:23,927 [INFO] kernelgym.worker [gpu_worker.py:132] - Worker worker_gpu_0 wrote initial heartbeat during startup
+2026-05-19 08:23:23,928 [WARNING] kernelgym.worker [gpu_worker.py:658] - API not ready for worker register: Cannot connect to host 192.168.16.4:8001 ssl:default [Connect call failed ('192.168.16.4', 8001)]. Retrying...
+2026-05-19 08:23:24,156 [INFO] kernelgym.worker [gpu_worker.py:115] - Starting GPU worker worker_gpu_1 on device cuda:1
+2026-05-19 08:23:24,157 [INFO] kernelgym.worker [gpu_worker.py:132] - Worker worker_gpu_1 wrote initial heartbeat during startup
+2026-05-19 08:23:24,158 [WARNING] kernelgym.worker [gpu_worker.py:658] - API not ready for worker register: Cannot connect to host 192.168.16.4:8001 ssl:default [Connect call failed ('192.168.16.4', 8001)]. Retrying...
+2026-05-19 08:23:24,448 [INFO] kernelgym.worker [gpu_worker.py:650] - Successfully registered with API server: {'success': True, 'message': 'Worker worker_gpu_0 registered', 'node_id': 'ai-16-2'}
+2026-05-19 08:23:24,452 [INFO] kernelgym.worker [gpu_worker.py:275] - Verifying GPU 0 availability (no CUDA init in main process)
+2026-05-19 08:23:24,482 [INFO] kernelgym.worker [gpu_worker.py:291] - GPU 0 verified successfully
+2026-05-19 08:23:24,482 [INFO] kernelgym.worker [gpu_worker.py:292] - GPU Name: NVIDIA GeForce RTX 4090
+2026-05-19 08:23:24,484 [INFO] kernelgym.worker [gpu_worker.py:293] - GPU Memory: 24.0GB
+2026-05-19 08:23:24,485 [INFO] kernelgym.worker [gpu_worker.py:294] - Main process will NOT use CUDA (subprocess isolation enabled)
+2026-05-19 08:23:24,486 [INFO] kernelgym.worker [gpu_worker.py:169] - Initializing worker pool for worker_gpu_0 (device=cuda:0, pool_size=1, max_tasks_per_worker=1)
+2026-05-19 08:23:24,669 [INFO] kernelgym.worker [gpu_worker.py:650] - Successfully registered with API server: {'success': True, 'message': 'Worker worker_gpu_1 registered', 'node_id': 'ai-16-2'}
+2026-05-19 08:23:24,673 [INFO] kernelgym.worker [gpu_worker.py:275] - Verifying GPU 1 availability (no CUDA init in main process)
+2026-05-19 08:23:24,703 [INFO] kernelgym.worker [gpu_worker.py:291] - GPU 1 verified successfully
+2026-05-19 08:23:24,703 [INFO] kernelgym.worker [gpu_worker.py:292] - GPU Name: NVIDIA GeForce RTX 4090
+2026-05-19 08:23:24,704 [INFO] kernelgym.worker [gpu_worker.py:293] - GPU Memory: 24.0GB
+2026-05-19 08:23:24,705 [INFO] kernelgym.worker [gpu_worker.py:294] - Main process will NOT use CUDA (subprocess isolation enabled)
+2026-05-19 08:23:24,705 [INFO] kernelgym.worker [gpu_worker.py:169] - Initializing worker pool for worker_gpu_1 (device=cuda:1, pool_size=1, max_tasks_per_worker=1)
+2026-05-19 08:23:27,003 [INFO] kernelgym.worker [gpu_worker.py:181] - Worker pool initialized successfully for worker_gpu_0 with 1 subprocess workers (max 1 tasks per worker)
+2026-05-19 08:23:27,005 [INFO] kernelgym.worker [gpu_worker.py:192] - Worker worker_gpu_0 sent initial heartbeat
+2026-05-19 08:23:27,007 [INFO] kernelgym.worker [gpu_worker.py:302] - Worker worker_gpu_0 processing loop started
+2026-05-19 08:23:27,180 [INFO] kernelgym.worker [gpu_worker.py:181] - Worker pool initialized successfully for worker_gpu_1 with 1 subprocess workers (max 1 tasks per worker)
+2026-05-19 08:23:27,181 [INFO] kernelgym.worker [gpu_worker.py:192] - Worker worker_gpu_1 sent initial heartbeat
+2026-05-19 08:23:27,183 [INFO] kernelgym.worker [gpu_worker.py:302] - Worker worker_gpu_1 processing loop started
+2026-05-19 08:25:12,712 [INFO] kernelgym.worker [gpu_worker.py:115] - Starting GPU worker worker_gpu_0 on device cuda:0
+2026-05-19 08:25:12,713 [INFO] kernelgym.worker [gpu_worker.py:132] - Worker worker_gpu_0 wrote initial heartbeat during startup
+2026-05-19 08:25:12,714 [WARNING] kernelgym.worker [gpu_worker.py:658] - API not ready for worker register: Cannot connect to host 192.168.16.4:8001 ssl:default [Connect call failed ('192.168.16.4', 8001)]. Retrying...
+2026-05-19 08:25:12,892 [INFO] kernelgym.worker [gpu_worker.py:115] - Starting GPU worker worker_gpu_1 on device cuda:1
+2026-05-19 08:25:12,892 [INFO] kernelgym.worker [gpu_worker.py:132] - Worker worker_gpu_1 wrote initial heartbeat during startup
+2026-05-19 08:25:12,909 [INFO] kernelgym.worker [gpu_worker.py:650] - Successfully registered with API server: {'success': True, 'message': 'Worker worker_gpu_1 registered', 'node_id': 'ai-16-2'}
+2026-05-19 08:25:12,915 [INFO] kernelgym.worker [gpu_worker.py:275] - Verifying GPU 1 availability (no CUDA init in main process)
+2026-05-19 08:25:12,966 [INFO] kernelgym.worker [gpu_worker.py:291] - GPU 1 verified successfully
+2026-05-19 08:25:12,966 [INFO] kernelgym.worker [gpu_worker.py:292] - GPU Name: NVIDIA GeForce RTX 4090
+2026-05-19 08:25:12,967 [INFO] kernelgym.worker [gpu_worker.py:293] - GPU Memory: 24.0GB
+2026-05-19 08:25:12,968 [INFO] kernelgym.worker [gpu_worker.py:294] - Main process will NOT use CUDA (subprocess isolation enabled)
+2026-05-19 08:25:12,969 [INFO] kernelgym.worker [gpu_worker.py:169] - Initializing worker pool for worker_gpu_1 (device=cuda:1, pool_size=1, max_tasks_per_worker=1)
+2026-05-19 08:25:13,226 [INFO] kernelgym.worker [gpu_worker.py:650] - Successfully registered with API server: {'success': True, 'message': 'Worker worker_gpu_0 registered', 'node_id': 'ai-16-2'}
+2026-05-19 08:25:13,230 [INFO] kernelgym.worker [gpu_worker.py:275] - Verifying GPU 0 availability (no CUDA init in main process)
+2026-05-19 08:25:13,262 [INFO] kernelgym.worker [gpu_worker.py:291] - GPU 0 verified successfully
+2026-05-19 08:25:13,263 [INFO] kernelgym.worker [gpu_worker.py:292] - GPU Name: NVIDIA GeForce RTX 4090
+2026-05-19 08:25:13,264 [INFO] kernelgym.worker [gpu_worker.py:293] - GPU Memory: 24.0GB
+2026-05-19 08:25:13,265 [INFO] kernelgym.worker [gpu_worker.py:294] - Main process will NOT use CUDA (subprocess isolation enabled)
+2026-05-19 08:25:13,266 [INFO] kernelgym.worker [gpu_worker.py:169] - Initializing worker pool for worker_gpu_0 (device=cuda:0, pool_size=1, max_tasks_per_worker=1)
+2026-05-19 08:25:15,565 [INFO] kernelgym.worker [gpu_worker.py:181] - Worker pool initialized successfully for worker_gpu_1 with 1 subprocess workers (max 1 tasks per worker)
+2026-05-19 08:25:15,566 [INFO] kernelgym.worker [gpu_worker.py:192] - Worker worker_gpu_1 sent initial heartbeat
+2026-05-19 08:25:15,566 [INFO] kernelgym.worker [gpu_worker.py:302] - Worker worker_gpu_1 processing loop started
+2026-05-19 08:25:15,777 [INFO] kernelgym.worker [gpu_worker.py:181] - Worker pool initialized successfully for worker_gpu_0 with 1 subprocess workers (max 1 tasks per worker)
+2026-05-19 08:25:15,778 [INFO] kernelgym.worker [gpu_worker.py:192] - Worker worker_gpu_0 sent initial heartbeat
+2026-05-19 08:25:15,780 [INFO] kernelgym.worker [gpu_worker.py:302] - Worker worker_gpu_0 processing loop started
+2026-05-19 08:26:08,186 [INFO] kernelgym.worker [gpu_worker.py:354] - Worker worker_gpu_1 processing task test_api_1779179168_kernel
+2026-05-19 08:26:08,187 [INFO] kernelgym.worker [gpu_worker.py:497] - [Worker] Load per_task_timeout from payload: 300
+2026-05-19 08:26:25,621 [INFO] kernelgym.worker [gpu_worker.py:428] - Worker worker_gpu_1 completed task test_api_1779179168_kernel in 17.43s
+2026-05-19 08:26:25,728 [INFO] kernelgym.worker [gpu_worker.py:354] - Worker worker_gpu_1 processing task test_api_1779179168_ref
+2026-05-19 08:26:25,728 [INFO] kernelgym.worker [gpu_worker.py:497] - [Worker] Load per_task_timeout from payload: 300
+2026-05-19 08:26:30,739 [INFO] kernelgym.worker [gpu_worker.py:428] - Worker worker_gpu_1 completed task test_api_1779179168_ref in 5.01s
+2026-05-19 08:27:02,565 [INFO] kernelgym.worker [gpu_worker.py:354] - Worker worker_gpu_0 processing task test_api_1779179222_kernel
+2026-05-19 08:27:02,566 [INFO] kernelgym.worker [gpu_worker.py:497] - [Worker] Load per_task_timeout from payload: 300
+2026-05-19 08:27:20,506 [INFO] kernelgym.worker [gpu_worker.py:428] - Worker worker_gpu_0 completed task test_api_1779179222_kernel in 17.94s
+2026-05-19 08:27:20,584 [INFO] kernelgym.worker [gpu_worker.py:354] - Worker worker_gpu_1 processing task test_api_1779179222_ref
+2026-05-19 08:27:20,585 [INFO] kernelgym.worker [gpu_worker.py:497] - [Worker] Load per_task_timeout from payload: 300
+2026-05-19 08:27:25,629 [INFO] kernelgym.worker [gpu_worker.py:428] - Worker worker_gpu_1 completed task test_api_1779179222_ref in 5.04s
