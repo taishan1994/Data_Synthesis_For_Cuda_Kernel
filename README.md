@@ -237,7 +237,7 @@ EVALUATION RESULT
 可以合成torch model从而进一步合成cuda kernel数据，可参考：https://github.com/taishan1994/Torch_Operator_Synthesis.git
 
 ```
-@misc{ChatSA,
+@misc{DSC,
   author = {Oubo Gong},
   title = {DSC: Data Synthesis For Cuda Kernel},
   year = {2026},
