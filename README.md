@@ -1,7 +1,7 @@
 # Data_Synthesis_For_Cuda_Kernel
 基于torch model生成多轮cuda kernel数据，用于SFT/RL。
 
-天下苦nkernel数据久已，本项目实现了基于torch model生成cuda kernel的数据流水线。主要是设计了cuda_agent的backend，并集成到dr kernel的KernelGYM的环境中。另外支持dr kernel的SFT以及RL。
+天下苦kernel数据久已，本项目实现了基于torch model生成cuda kernel的数据流水线。主要是设计了cuda_agent的backend，并集成到dr kernel的KernelGYM的环境中。另外支持dr kernel的SFT以及RL。
 
 安装环境：
 ```shell
